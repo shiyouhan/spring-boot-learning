@@ -1,0 +1,10 @@
+#logging:
+#  level: {
+#    top.syhan.boot.controller: trace
+#  }
+
+spring:
+  profiles:
+    active: dev
+
+
