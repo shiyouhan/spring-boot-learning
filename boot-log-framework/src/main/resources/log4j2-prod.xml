@@ -2,7 +2,7 @@
 <configuration>
     <properties>
         <!--日志输出位置-->
-        <property name="LOG_HOME">/Users/mqxu/Documents/logs</property>
+        <property name="LOG_HOME">/Users/syhan/Documents/logs</property>
     </properties>
 
     <Appenders>
